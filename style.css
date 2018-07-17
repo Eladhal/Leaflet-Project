@@ -1,0 +1,18 @@
+#container{
+    display: flex;
+    flex-direction: row;
+}
+
+#sideBar{
+    width: 300px;
+}
+
+#map{
+    margin-left: 10px;
+    height: 615px;
+    width: 615px;
+}
+.head{
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: blue;
+}
